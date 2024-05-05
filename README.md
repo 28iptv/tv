@@ -1,5 +1,5 @@
 EXTM3U
-#EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="https://ibb.co/Msx4H8D" group-title="General",ALLENTV RD(4K)
+#EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="https://ibb.co/Msx4H8D" group-title="General",ALLENTV RD (4K)
 https://cdnhd.iblups.com/hls/0QQSI8XHYC.m3u8
 #EXTINF:-1 tvg-id="MAKINATV" tvg-logo="https://i.imgur.com/kuv6S3j.png" group-title="Business;Legislative;News",MAKINA TV (720p)
 https://5790d294af2dc.streamlock.net/Makina/8218/playlist.m3u8
