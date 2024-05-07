@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="http://imgfz.com/i/zWIDR3K.png" group-title="General",ALLENTV RD(4K)
+#EXTINF:-1 tvg-id="ALLENTV RD" tvg-logo="https://ibb.co/Msx4H8D" group-title="General",ALLENTV RD(4K)
 https://cdnhd.iblups.com/hls/0QQSI8XHYC.m3u8
+#EXTINF:-1 tvg-id="MAKINA TV RD" tvg-logo="http://imgfz.com/i/aiPInXw.png" group-title="General",MAKINA TV RD(4K)
+https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="Undefined",TV Higuey Digital (720p)
